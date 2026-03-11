@@ -10,6 +10,7 @@ license: Apache-2.0
 # 黄金价格查询
 
 **零 API Key 依赖**：无需注册任何账号或提供任何 API Key 即可使用全部核心功能。用户本地化掌控所有，程序不收集、不存储任何用户个人信息。同时规避浏览器模拟等复杂、不可靠和低效问题。
+**GitHub**：[https://github.com/ihurrican/gold-price](https://github.com/ihurrican/gold-price)
 
 ## 数据来源
 
